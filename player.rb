@@ -35,3 +35,4 @@ end
 
 
 # player1 = Player.new("name", 100)
+# player2 = Player.new("name", health)
